@@ -1,11 +1,7 @@
 ### Censorship: because pigs love to sniff 🐽🐽
 
-**methods embloyed by **"ماسر"** for censoring the internet**
+**methods employed by **"ماسر"** for censoring the internet**
 
-- DNS poisoning
-- keyword blocking
-- port blocking
-- ip blocking
 - DPI
 
 ---
@@ -24,15 +20,15 @@
 
 - wireguard: blocked by DPI (can be obfuscated)
 - openVPN: blocked by DPI (can be obfuscated)
-- any commercial VPN
+- haven't tested out any other commercial VPN
 ##### proxies
 - shadowsocks: working
 - trojan: working
-- xray: not-working
+- xray: working
 
 ---
 #### what you'll need?
-a VPS with basic capabilities
+a VPS with minimal capabilities
 
 - [a list of free VPS](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
 - domain name (optional)
@@ -95,21 +91,21 @@ Mesh VPNs (overlay networks)
 - zerotier
 
 opensource VPN service providers
-- [lantern (free/limited quota, paid)](https://lantern.io/)
-- [riseup (free)](https://riseup.net/en/vpn)
-- [psiphon (free) made by citizen lab](https://psiphon.ca/)
+- [lantern (free/limited quota, paid)](https://lantern.io/) working
+- [riseup (free)](https://riseup.net/en/vpn) not-working
+- [psiphon (free) made by citizen lab](https://psiphon.ca/) can't test it
 
 ---
 
 #### proxies
 
 **why is it preferable to use proxies to circumvent censorship**
-- designed specifically to bypass firewalls
+- better suited for this task
 - tend to be harder to identify and hence blocked
 
 ##### list of proxies (list is not exhaustive)
 - [shadowsocks](https://shadowsocks.org/)
-- [xray (formarly v2ray)](https://github.com/XTLS)
+- [xray (v2ray fork)](https://github.com/XTLS)
 - [trojan](https://github.com/trojan-gfw/trojan)
 - [Hysteria2](https://v2.hysteria.network/)
 
