@@ -1,5 +1,7 @@
 ### Censorship: because pigs love to sniff 🐽🐽
 
+**هينزل فيديوهات قريب بتوضح ازاى تعمل كل ده بنفسك**
+
 **methods employed by **"ماسر"** for censoring the internet**
 
 - DPI
