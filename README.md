@@ -36,8 +36,8 @@ a VPS with minimal capabilities
 - domain name (optional)
     - [freenom](https://www.freenom.com/en/freeandpaiddomains.html)
     - [getfreedomain](https://www.getfreedomain.name/)
-- server
-- client
+- server (optional)
+- client (optional)
 ---
 
 #### Clients/Software
@@ -111,11 +111,20 @@ opensource VPN service providers
 - [trojan](https://github.com/trojan-gfw/trojan)
 - [Hysteria2](https://v2.hysteria.network/)
 
-#### obfuscation tools and bypassing DPI
-
+#### obfuscation tools 
 - [cloak](https://github.com/cbeuw/Cloak)
 - [wstunnel](https://github.com/erebe/wstunnel)
+
+#### bypassing DPI 
+> Caution: this DOES NOT hide the fact that you're accessing a blocked site
 - [zapret](https://github.com/bol-van/zapret)
+- [ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)
+- [ByeDPI for linux](https://github.com/hufrea/byedpi)
+- [Goodbye DPI for windows](https://github.com/ValdikSS/GoodbyeDPI)
+
+---
+
+#### SSH proxy
 
 ---
 
